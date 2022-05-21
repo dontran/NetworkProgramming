@@ -1,0 +1,14 @@
+D:\TFS\RD\AngularWithCore\AngularWithCore\bin\Debug\netcoreapp2.2\AngularWithCore.deps.json
+D:\TFS\RD\AngularWithCore\AngularWithCore\bin\Debug\netcoreapp2.2\AngularWithCore.runtimeconfig.json
+D:\TFS\RD\AngularWithCore\AngularWithCore\bin\Debug\netcoreapp2.2\AngularWithCore.runtimeconfig.dev.json
+D:\TFS\RD\AngularWithCore\AngularWithCore\bin\Debug\netcoreapp2.2\AngularWithCore.dll
+D:\TFS\RD\AngularWithCore\AngularWithCore\bin\Debug\netcoreapp2.2\AngularWithCore.pdb
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.csprojAssemblyReference.cache
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.csproj.CoreCompileInputs.cache
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.RazorAssemblyInfo.cache
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.RazorAssemblyInfo.cs
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.AssemblyInfoInputs.cache
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.AssemblyInfo.cs
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.RazorTargetAssemblyInfo.cache
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.dll
+D:\TFS\RD\AngularWithCore\AngularWithCore\obj\Debug\netcoreapp2.2\AngularWithCore.pdb
